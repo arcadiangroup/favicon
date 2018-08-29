@@ -9,3 +9,7 @@ into your **index.html**
 ```
 
 * reponame = the name of the github repository
+
+#### Favicon Generator
+
+https://favicon.io/
